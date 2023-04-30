@@ -1,5 +1,5 @@
 # SkinStore
-The SkinStore is a E-commerce website which is build with the help of HTML, CSS and javascript. The website allows users to browse a wide range of cosmetic product's.
+The SkinStore is an E-commerce website which is build with the help of HTML, CSS and javascript. The website allows users to browse a wide range of cosmetic product's.
 
 CONTRIBUTING
 
